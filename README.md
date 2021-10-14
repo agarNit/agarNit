@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nitish Agarwal.
 - 👀 I’m interested in Data Science and Programming.
-- 🌱 I’m currently learning DSA, Python for Data Science and Programming and DBMS.
+- 🌱 I’m currently learning DSA, Python for Data Science & Programming and DBMS.
 - 💞️ I’m looking to collaborate on App developement and Software developement.
 - 📫 Mail at agarwalnitish121@gmail.com
 
